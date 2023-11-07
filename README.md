@@ -1,1 +1,1 @@
-# job-finder-app
+# JobBuddy-Mobile-App
