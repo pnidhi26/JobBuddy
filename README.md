@@ -1,7 +1,7 @@
 ## JobBuddy-Mobile-App
-This application is job hunting mobile app.
+This application is a job hunting mobile app.
 
-# Tech Stack Used:
+## Tech Stack Used:
 * React Native, Rapid API (JSearch), Expo, Expo Go, 
 - https://expo.github.io/router/docs/
 
@@ -31,7 +31,7 @@ This application is job hunting mobile app.
 - npm run web
 
 
-# build and deployment:
+## build and deployment:
 
 - Classic SDK < 49
 * npm install expo@latest expo-cli@latest
@@ -46,7 +46,7 @@ eas build
 eas update
 
 
-# Read more:
+## Read more:
 https://docs.expo.dev/eas-update/migrate-from-classic-updates/
 
 
