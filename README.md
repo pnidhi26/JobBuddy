@@ -40,12 +40,12 @@ This application is a job hunting mobile app.
 * npx expo-cli publish
 
 - EAS SDK > 50
-npm install --global eas-cli
-eas login
-eas update:configure
-eas build:configure
-eas build
-eas update
+* npm install --global eas-cli
+* eas login
+* eas update:configure
+* eas build:configure
+* eas build
+* eas update
 
 
 ## Read more:
