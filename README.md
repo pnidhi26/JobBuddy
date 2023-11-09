@@ -1,5 +1,7 @@
 ## JobBuddy-Mobile-App
 This application is a job hunting mobile app.
+![image](https://github.com/pnidhi26/JobBuddy/assets/30867614/c078bf26-eab1-4b68-88cb-56b16139a586)
+![image](https://github.com/pnidhi26/JobBuddy/assets/30867614/8aa0d4d7-a36e-4dec-b804-9ea15239ec60)
 
 ## Tech Stack Used:
 * React Native, Rapid API (JSearch), Expo, Expo Go, 
