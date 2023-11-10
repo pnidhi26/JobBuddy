@@ -11,6 +11,8 @@ This application is a job hunting mobile app.
 ## Live Demo:
 * Install Expo Go app and inside this app scan QR code are follow these below respective links with your Android/iOS.
 
+### Get the App here - https://expo.dev/@pnidhi26/JobBuddy-App
+
 * On Android - exp://u.expo.dev/update/7877ee6c-f691-484c-a73b-e406e772f224
 ![Alt text](image.png)
 
